@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Myapp Table" max_length="40" name="x_197236_myapp_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Content" max_length="255" name="content" type="string"/>
+        <element choice="1" default="United States" label="Country" mandatory="true" max_length="255" name="country" type="choice">
+            <choice>
+                <element label="United States" value="United States"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="LinkText" max_length="40" name="link_text" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="Enter HTML content " display="true" label="RichTextContent" mandatory="true" max_length="8000" name="richtextcontent" type="html"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Link URL" max_length="1024" name="u_url_1" type="url"/>
+    </element>
+</database>

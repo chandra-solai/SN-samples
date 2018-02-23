@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="richtextcontent" label="RichTextContent" language="en" table="x_197236_myapp_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>richtextcontent</element>
+            <help/>
+            <hint/>
+            <label>RichTextContent</label>
+            <language>en</language>
+            <name>x_197236_myapp_table</name>
+            <plural>RichTextContents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-22 15:53:45</sys_created_on>
+            <sys_id>2c365b774f101300a848fa218110c7f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>RichTextContent</sys_name>
+            <sys_package display_value="MyApp" source="x_197236_myapp">0a75db374f101300a848fa218110c77b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyApp">0a75db374f101300a848fa218110c77b</sys_scope>
+            <sys_update_name>sys_documentation_x_197236_myapp_table_richtextcontent_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-22 15:53:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
